@@ -14,4 +14,4 @@
 <img src="https://github.com/EvandroJMoreira/script/blob/main/img/zeroACem.jpg" width=500px>
  
 <h3>O Site</h3>
-<a href="https://evandrojmoreira.github.io/script/">clique aqui</a>
+<a href="https://evandrojmoreira.github.io/gameZeroACem/">clique aqui</a>
