@@ -28,8 +28,6 @@ Você vence quando **encurrala** o número secreto, ou seja, quando os palpites 
 
 ## 📷 Preview
 
-git clone https://github.com/EvandroJMoreira/gameZeroACem/blob/main/img/zeroACem.jpg?raw=true
-
 ![Preview do Jogo](img/zeroACem.jpg)
 
 ---
