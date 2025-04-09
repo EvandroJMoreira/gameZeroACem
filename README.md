@@ -34,7 +34,15 @@ Você vence quando **encurrala** o número secreto, ou seja, quando os palpites 
 
 ## 🚀 Como rodar localmente
 
-1. Clone o repositório:
-   ```bash
-   git clone https://evandrojmoreira.github.io/gameZeroACem/
+[Acesse o jogo aqui 🚀](https://evandrojmoreira.github.io/gameZeroACem/)
+
+💡 O que você pode fazer com esse projeto?
+1. Aprender lógica de jogo com JavaScript puro
+2. Treinar uso de DOM e eventos
+3. Customizar regras e adicionar melhorias (ex: ranking, tempo, sons)
+
+📌 Créditos
+Feito por Evandro Moreira
+
+Sinta-se livre para contribuir, sugerir ou apenas jogar 😄
 
