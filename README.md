@@ -1,7 +1,6 @@
 # 🎯 Zero a Cem
 
-Um jogo simples, mas desafiador, onde **o objetivo é NÃO acertar o número sorteado!**  
-Você vence quando **encurrala** o número secreto, ou seja, quando os palpites deixam o número sorteado exatamente entre dois valores consecutivos.
+Um jogo simples onde **o objetivo é acertar o número sorteado!**  
 
 <br>
 
@@ -10,9 +9,9 @@ Você vence quando **encurrala** o número secreto, ou seja, quando os palpites 
 1. O número secreto é sorteado entre **0 e 100**.
 2. Você começa com os limites visíveis na tela.
 3. Insira seu palpite e clique em **Enviar**.
-4. O jogo informará se o número é **maior** ou **menor**.
+4. O jogo informará se o número é **maior** ou **menor**, e atualiza os limites.
 5. Você **vence** se acertar o número.
-6. O jogo informará quantas tentativas você precisou para acertar.e `31`.
+6. O jogo informará quantas tentativas você precisou para acertar.
 
 ---
 
